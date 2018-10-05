@@ -7,7 +7,7 @@
   </ol>
   
 <h1>UML</h1>
-[![](https://raw.githubusercontent.com/infung/QStress_App_ReactNative_Mobx_Firebase/master/Screenshot/33ck.jpg)](https://raw.githubusercontent.com/infung/QStress_App_ReactNative_Mobx_Firebase/master/Screenshot/33ck.jpg)
+[![](https://raw.githubusercontent.com/infung/QStress_App_ReactNative_Mobx_Firebase/master/Screenshot/33ck.jpg)](https://raw.githubusercontent.com/infung/QStress_App_ReactNative_Mobx_Firebase/master/Screenshot/33ck.jpg) 
 
 <h1>Screenshot</h1>
 
